@@ -5,7 +5,7 @@ I'm KEK.
 I'm a fullstack developer, currently working as a contractor for various DeFi protocols.
 
 Languages and tools:
-* Smart contracts: Solidity / Cairo (learning)
+* Smart contracts: Solidity / Cairo
 * Front: Javascript / Typescript / React / Vue / Ethers...
 * Back: Node / Golang / Python
 * DevOps: Terraform / Docker / K8S / GCP
